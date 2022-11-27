@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/primerFragment"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="Primer Fragment" />
+
+    <item
+        android:id="@+id/segundoFragment"
+        android:icon="@drawable/ic_baseline_insert_drive_file_24"
+        android:title="Segundo Fragment" />
+
+</menu>
