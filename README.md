@@ -10,4 +10,6 @@
   - Turpo Coila, Alex Ronaldo
 
 ## Preview
- 
+
+![image](https://user-images.githubusercontent.com/28519864/204119119-835b4b8c-7092-4af2-afdb-cdefeeab3465.png)
+
